@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8A4B6B03-F820-35E7-D37B-5064DB6DE5E3}") = "2DNetworking", "Assembly-CSharp.csproj", "{AAC0FA46-393F-DB92-4877-5B4696A37CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC0FA46-393F-DB92-4877-5B4696A37CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC0FA46-393F-DB92-4877-5B4696A37CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC0FA46-393F-DB92-4877-5B4696A37CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC0FA46-393F-DB92-4877-5B4696A37CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
